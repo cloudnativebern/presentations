@@ -3,3 +3,60 @@
 This repo contains the slide decks from our Cloud Native Bern Meetup: https://www.meetup.com/cloudnativebern.
 
 Please refer to the subdirectories for the specific meetups.
+
+## 4. Cloud Native Bern
+
+Wednesday, September 18, 2019 2:00 PM to 7:00 PM
+
+PostFinance Arena, Mingerstrasse 12 · Bern
+
+* 14:00 – Begrüssung (Mathias Herzog, PostFinance)
+* 14:10 – [Self-Service und IT-Infrastruktur Automatisierung bei der SBB](2019-09-18_meetup_4/sbb_baltisar_oswald.pdf) (Baltisar Oswald, SBB)
+* 14:40 – [A Story of Vault](2019-09-18_meetup_4/story_of_vault_johann_gyger.pdf) (Johann Gyger, Levingo)
+* 15:10 – [Building Mission-Critical Applications on Kubernetes](2019-09-18_meetup_4/building_mission_critical_applications_on_k8s_buergich.pdf) (Christian Bürgi, PostFinance)
+* 15:40 – Kaffeepause
+* 16:00 – [Wie energieeffizient ist deine Cloud Anwendung?](2019-09-18_meetup_4/energieeffizienz_cloud_anwendung_mascha_kurpicz-briki.pdf) (Mascha Kurpicz-Briki, Berner Fachhochschule)
+* 16:30 – [Serverless on AWS, my learnings from doing serverless with Go and Terraform on AWS](2019-09-18_meetup_4/serverless_tobi_fuhrimann.pdf) (Tobi Fuhrimann, be|spinian)
+* 17:00 – Apéro (sponsored by PostFinance)
+
+## 3. Cloud Native Bern
+
+Thursday, June 13, 2019 2:00 PM to 6:00 PM
+
+Puzzle ITC GmbH, Belpstrasse 37, Bern
+
+* 14:00 – Begrüssung (Thomas Philipona, Puzzle)
+* 14:10 – CI/CD in IaaS Clouds with Ansible (René Moser, Puzzle)
+* 14:40 – Tracing, routing and policy enforcement / first steps with Istio (Pascal Moser, SBB)
+* 15:10 – Highlights von der KubeCon Barcelona (Matthias Indermühle, VSHN AG)
+* 15:40 – Kaffeepause
+* 16:00 – Going Serverless on Kubernetes (This Kretz, Swisscom)
+* 16:30 – Recipe for continuous delivery for cloud native apps (Viktor Farcic, CloudBees)
+* 17:00 – Apéro (sponsored by Puzzle)
+
+## 2. Cloud Native Meetup Bern: Observability
+
+Monday, March 18, 2019 2:00 PM to 6:00 PM
+
+Die Mobiliar, Bundesgasse 35, Bern
+
+* 14:00 - Welcome note von Philipp Grossenbacher, PO bei Die Mobiliar
+* 14:10 - Talk 1: "Die Cloud aus Sicht eines CIO" von Thomas Kühne, Leiter IT bei Die Mobiliar
+* 14:40 - Talk 2: "Use-case tracing with Zipkin" von Ivailo Manassiev, DevOps Engineer bei Swisscom
+* 15:20 - COFFEE BREAK
+* 15:50 - Talk 3: "Distributed Business Tracing with OpenTracing and Trasier" von Lukasz Pielak und Frank Pfleger
+* 16:30 - Talk 4: "Application Monitoring with Prometheus on OpenShift" von Thomas Philipona, CTO bei Puzzle ITC
+* 17:00 - APERO
+
+## 1. Cloud Native Computing Bern
+
+Monday, March 18, 2019 2:00 PM to 6:00 PM
+
+Die Mobiliar, Bundesgasse 35, Bern
+
+* 14:00 - Welcome note
+* 14:10 - Talk 1: "Cloud native platform strategy" von Maximilian Schöfmann, Director Cloud Platform Engineering bei Scout24 AG
+* 14:50 - Talk 2: "[Rancher in der Mobiliar, ein Erfahrungsbericht](2018-11-01_meetup_1/rancher_mobiliar_daniel_strohecker.pdf)" von Daniel Strohecker, System Engineer bei Die Mobiliar
+* 15:30 - COFFEE BREAK
+* 15:50 - Talk 3: "[Cloud@SBB](2018-11-01_meetup_1/cloud_computing_sbb_masen_lehmann.pdf)" von Igor Masen & Reto Lehmann, SBB
+* 16:30 - Talk 4: "[Herausforderungen bei der Etablierung von privaten Cloud Services in einer historisch gewachsenen Applikationslandschaft](2018-11-01_meetup_1/herausforderungen_private_cloud_mathias_herzog.pdf)" von Mathias Herzog, Leiter Technologie Management Linux bei PostFinance
