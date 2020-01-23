@@ -4,6 +4,20 @@ This repo contains the slide decks from our Cloud Native Bern Meetup: https://ww
 
 Please refer to the subdirectories for the specific meetups.
 
+## 5. Cloud Native Bern
+
+Wednesday, January 22, 2020 to 2:00 PM to 6:00 PM
+
+Swisscom, Alte Tiefenaustrasse 6 · Bern
+
+* 14:00 – Begrüssung (Torben Hoeft, Swisscom)
+* 14:05 – Lessons learned from 5+ years in Cloud Native (Lukas Lehmann, Swisscom)
+* 14:30 – Kustomize your Deployments! (This Kretz, be|spinian)
+* 15:10 – Kaffeepause
+* 15:40 – Introduction to Consul Service Mesh (Christoph Puhl, HashiCorp)
+* 16:20 – GitOps (Cedric Boesiger, xhuma)
+* 17:00 – Apéro (sponsored by Dell Technologies)
+
 ## 4. Cloud Native Bern
 
 Wednesday, September 18, 2019 2:00 PM to 7:00 PM
