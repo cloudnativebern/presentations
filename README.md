@@ -15,7 +15,7 @@ Swisscom, Alte Tiefenaustrasse 6 · Bern
 * 14:30 – [Kustomize your Deployments!](2020-01-22_meetup_5/kustomize_your_deployments_this_kretz.pdf) (This Kretz, be|spinian)
 * 15:10 – Kaffeepause
 * 15:40 – [Introduction to Consul Service Mesh](2020-01-22_meetup_5/consul_service_mesh_101_christoph_puhl.pdf) (Christoph Puhl, HashiCorp)
-* 16:20 – GitOps (Cedric Boesiger, xhuma)
+* 16:20 – [GitOps](2020-01-22_meetup_5/gitops_cedric_boesiger.pdf) (Cedric Boesiger, xhuma)
 * 17:00 – Apéro (sponsored by Dell Technologies)
 
 ## 4. Cloud Native Bern
