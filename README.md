@@ -4,6 +4,11 @@ This repo contains the slide decks from our Cloud Native Bern Meetup: https://ww
 
 Please refer to the subdirectories for the specific meetups.
 
+## Cloud Native Bern Meetup, Januar 2021
+
+* [Automating SLI/SLO based build validation with Keptn](2021-01-19_meetup/keptn_slislo_robin_wyss.pdf) (Robin Wyss, Dynatrace)
+* [How to run a Cloud-Native IAM with GitOps](https://docs.google.com/presentation/d/1Byg6C5xd3MeEDUWNY2r_fcIj9zBbI2qTCgBjenTTYxM/edit?usp=sharing) (Florian Forster, CAOS)
+
 ## 5. Cloud Native Bern
 
 Wednesday, January 22, 2020 to 2:00 PM to 6:00 PM
