@@ -4,6 +4,13 @@ This repo contains the slide decks from our Cloud Native Bern Meetup: https://ww
 
 Please refer to the subdirectories for the specific meetups.
 
+## Cloud Native Bern Meetup, November 2022
+
+* [Backstage](2022-11-17_meetup/Backstage.pdf) (Olivier Liechti, Avalia Systems)
+* [KEDA - Mastering Scale to Zero](2022-11-17_meetup/KEDA.pdf) (Daniel Hasselwander, ti&m)
+* [Insights into an alarmingly mission critical application](2022-11-17_meetup/Insights_into_an_alarmingly_mission_critical_application.pdf) (Christian Tschanz, Swisscom)
+
+
 ## Cloud Native Bern Meetup, Januar 2021
 
 * [Automating SLI/SLO based build validation with Keptn](2021-01-19_meetup/keptn_slislo_robin_wyss.pdf) (Robin Wyss, Dynatrace)
