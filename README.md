@@ -1,15 +1,18 @@
 # Cloud Native Bern Meetup Slides
 
-This repo contains the slide decks from our Cloud Native Bern Meetup: https://www.meetup.com/cloudnativebern.
+This repo contains the slide decks from our Cloud Native Bern Meetup: <https://www.meetup.com/cloudnativebern>.
 
 Please refer to the subdirectories for the specific meetups.
+
+## Cloud Native Bern Meetup, Mai 2023
+
+* [Helm Chart - Gebastel oder Entwicklung?](2023-05-23_meetup/Helm-Chart-Entwicklung.pdf) (Christoph Raaflaub, Puzzle ITC)
 
 ## Cloud Native Bern Meetup, November 2022
 
 * [Backstage](2022-11-17_meetup/Backstage.pdf) (Olivier Liechti, Avalia Systems)
 * [KEDA - Mastering Scale to Zero](2022-11-17_meetup/KEDA.pdf) (Daniel Hasselwander, ti&m)
 * [Insights into an alarmingly mission critical application](2022-11-17_meetup/Insights_into_an_alarmingly_mission_critical_application.pdf) (Christian Tschanz, Swisscom)
-
 
 ## Cloud Native Bern Meetup, Januar 2021
 
