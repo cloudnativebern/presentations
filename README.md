@@ -6,7 +6,9 @@ Please refer to the subdirectories for the specific meetups.
 
 ## Cloud Native Bern Meetup, Mai 2023
 
+* [CMP: The Developers Paradise in the Cloud Native World](2023-05-23_meetup/CMP-TheDevelopersParadise.pdf) (Reto Hirt und Martin Thoma, Stadt Zürich)
 * [Helm Chart - Gebastel oder Entwicklung?](2023-05-23_meetup/Helm-Chart-Entwicklung.pdf) (Christoph Raaflaub, Puzzle ITC)
+* [Zero Trust Networking in Kubernetes using Cilium, Hubble & Grafana](2023-05-23_meetup/ZeroTrustVisibility.pdf) (Raphaël Pinson, Isovalent)
 
 ## Cloud Native Bern Meetup, November 2022
 
