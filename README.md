@@ -4,6 +4,11 @@ This repo contains the slide decks from our Cloud Native Bern Meetup: <https://w
 
 Please refer to the subdirectories for the specific meetups.
 
+## Cloud Native Bern Meetup, Oktober 2023
+
+* [IT und die Umwelt am Beispiel von Cristiano Ronaldo](2023-10-10_meetup/IT_und_die_Umwelt.pdf) (Beat Koch, OnQ Systems)
+* [Green Cloud: A step towards a Sustainable Future](2023-10-10_meetup/GreenCloud.pdf) (Sudhanshu Garg, Thoughtworks Deutschland)
+
 ## Cloud Native Bern Meetup, Mai 2023
 
 * [CMP: The Developers Paradise in the Cloud Native World](2023-05-23_meetup/CMP-TheDevelopersParadise.pdf) (Reto Hirt und Martin Thoma, Stadt Zürich)
