@@ -6,8 +6,8 @@ Please refer to the subdirectories for the specific meetups.
 
 ## Cloud Native Bern Meetup, Oktober 2023
 
-* [IT und die Umwelt am Beispiel von Cristiano Ronaldo](2023-10-10_meetup/IT_und_die_Umwelt.pdf) (Beat Koch, OnQ Systems)
-* [Green Cloud: A step towards a Sustainable Future](2023-10-10_meetup/GreenCloud.pdf) (Sudhanshu Garg, Thoughtworks Deutschland)
+* [IT und die Umwelt am Beispiel von Cristiano Ronaldo](2023-10-10_meetup/it_und_die_umwelt.pdf) (Beat Koch, OnQ Systems)
+* [Green Cloud: A step towards a Sustainable Future](2023-10-10_meetup/green_cloud.pdf) (Sudhanshu Garg, Thoughtworks Deutschland)
 
 ## Cloud Native Bern Meetup, Mai 2023
 
