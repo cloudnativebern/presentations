@@ -4,6 +4,10 @@ This repo contains the slide decks from our Cloud Native Bern Meetup: <https://w
 
 Please refer to the subdirectories for the specific meetups.
 
+## Cloud Native Bern Meetup, Mai 2024
+
+* [Evolving GitOps: Harnessing Kubernetes Resource Model for 5G Core](2024-05-30_meetup/evolving-gitops-using-krm.pdf) (Ashan Senevirathne & Joel Studler, Swisscom)
+
 ## Cloud Native Bern Meetup, Oktober 2023
 
 * [IT und die Umwelt am Beispiel von Cristiano Ronaldo](2023-10-10_meetup/it_und_die_umwelt.pdf) (Beat Koch, OnQ Systems)
