@@ -4,6 +4,11 @@ This repo contains the slide decks from our Cloud Native Bern Meetup: <https://w
 
 Please refer to the subdirectories for the specific meetups.
 
+## Cloud Native Bern Meetup, August 2024
+
+* [Kubenurse: The In-Cluster Nurse Making Network Rounds](2024-08-28_meetup/kubenurse.pdf) (Clément Nussbaumer, PostFinance)
+
+
 ## Cloud Native Bern Meetup, Mai 2024
 
 * [Evolving GitOps: Harnessing Kubernetes Resource Model for 5G Core](2024-05-30_meetup/evolving-gitops-using-krm.pdf) (Ashan Senevirathne & Joel Studler, Swisscom)
