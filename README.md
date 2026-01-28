@@ -4,6 +4,10 @@ This repo contains the slide decks from our Cloud Native Bern Meetup: <https://w
 
 Please refer to the subdirectories for the specific meetups.
 
+## Cloud Native Bern Meetup, Januar 2026
+
+* [Dig Smart: Creating A Reliable Cloud-Native DNS Service](2026-01-27_meetup/dig-smart-creating-a-reliable-cloud-native-dns-service.pdf) (Joel Studler, Fabian Schulz & Georgios Daskalopoulos, Swisscom)
+
 ## Cloud Native Bern Meetup, August 2025
 
 * [Grafana Tempo & OpenTelemetry: Distributed Tracing Made Easy](2025-08-21_meetup/distributed_tracing.pdf) (Thomas Philipona, Tim&Koko)
