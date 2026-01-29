@@ -7,6 +7,7 @@ Please refer to the subdirectories for the specific meetups.
 ## Cloud Native Bern Meetup, Januar 2026
 
 * [Dig Smart: Creating A Reliable Cloud-Native DNS Service](2026-01-27_meetup/dig-smart-creating-a-reliable-cloud-native-dns-service.pdf) (Joel Studler, Fabian Schulz & Georgios Daskalopoulos, Swisscom)
+* [Sovereign secrets management with FOSS](2026-01-27_meetup/Sovereign_secrets_management_with_FOSS.pdf) (Toni Tauro, Adfinis)
 
 ## Cloud Native Bern Meetup, August 2025
 
